@@ -1,8 +1,8 @@
 ---
-title: MY GALLERY
+title: Gallery AI
 ---
 
-# MY GALLERY
+# Gallery AI
 
 Fotoğraf ve videolarını aradığın şeyi anlatarak bulmanı sağlayan galeri
 uygulaması. Her şeyi telefonunda yapar.
@@ -14,4 +14,4 @@ are looking for. It does everything on your phone.
 
 ## Destek · Support
 
-Sorular ve geri bildirim için · Questions and feedback: brhn_cck@outlook.com
+Sorular ve geri bildirim için · Questions and feedback: destekgalleryAI@outlook.com
